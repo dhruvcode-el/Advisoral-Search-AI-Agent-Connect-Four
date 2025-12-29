@@ -33,7 +33,14 @@ Blocking: High negative weights are assigned to opponent's near-win states.
 Java Development Kit (JDK) 11 or higher.
 # Steps
 1. Clone the repository:
-    '''bash
+```bash
     java ConnectFourApp
-3. Compile the source files:
-4. Run the application:
+   ```
+2. Compile the source files:
+ ```bash
+    javac ConnectFourApp.java
+   ```
+3. Run the application:
+```bash
+    java ConnectFourApp
+   ```
