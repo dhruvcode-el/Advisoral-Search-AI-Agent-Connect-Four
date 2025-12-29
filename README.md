@@ -34,7 +34,9 @@ Java Development Kit (JDK) 11 or higher.
 # Steps
 1. Clone the repository:
 ```bash
-    java ConnectFourApp
+    git clone https://github.com/dhruvcode-el/Advisoral-Search-AI-Agent-Connect-Four.git
+    
+    cd Advisoral-Search-AI-Agent-Connect-Four
    ```
 2. Compile the source files:
  ```bash
